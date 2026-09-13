@@ -4,8 +4,8 @@ Welcome to my data portfolio!
 
 # 📚 Table of Contents
 
-* [End-to-End projects](# End-to-End projects)
-* [Excel](# Excel)
+* [End-to-End projects](#End-to-End_projects)
+* [Excel](#Excel)
   
 # End-to-End projects
 
@@ -18,4 +18,4 @@ Welcome to my data portfolio!
 
 | Project Link | Area of Analysis | Project Description |
 |---|---|---|
-|📞 [Call Center Data Analysis]() | Call Center & Customer Analysis | Analyzed call center data using Excel to understand call duration, customer satisfaction, purchase amounts, representative performance, and call trends across different dates and days of the week. |
+|📞 [Call Center Data Analysis](https://github.com/kavana-ar/Call-Center-Data-Analysis) | Call Center & Customer Analysis | Analyzed call center data using Excel to understand call duration, customer satisfaction, purchase amounts, representative performance, and call trends across different dates and days of the week. |
